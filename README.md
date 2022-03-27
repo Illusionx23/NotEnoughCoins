@@ -14,4 +14,4 @@ Some people requested me to publish the mod on github, so I did!
     
 We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
 
-Guide on how to make it work: Download forge 1.8.9 modloader (or basically any modloader), then you may want to put this mod in the mod folder. Then, select the forge 1.8.9 profile in the minecraft launcher, and hit play. Then, you should type /nec to config up the mod.
+Guide on how to make it work: Download forge 1.8.9 modloader (or basically any modloader), then you may want to put this mod in the mod folder. Then, select the forge 1.8.9 profile in the minecraft launcher, and hit play. Type /nec in the chat to config up the mod.
