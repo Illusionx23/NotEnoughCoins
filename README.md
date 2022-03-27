@@ -1,8 +1,5 @@
 NotEnoughCoins
 
-[image](https://user-images.githubusercontent.com/102412758/160295557-330db930-a75c-4f84-92c6-36a27d7ebaf8.png)
-
-
 A SkyBlock Flipping Mod.
 
     /nec - Shows the config GUI
