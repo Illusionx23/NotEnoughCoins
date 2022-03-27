@@ -1,8 +1,6 @@
-NotEnoughCoins
+**NotEnoughCoins**
 
 A SkyBlock Flipping Mod.
-
-[Screenshot_34](https://user-images.githubusercontent.com/102412758/160296101-eff491fa-604f-4a99-a89a-11f4a211c063.png)
 
 Some people requested me to publish the mod on github, so I did!
 
